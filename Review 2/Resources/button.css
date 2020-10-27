@@ -1,0 +1,60 @@
+.button button {
+  color: #ffffff;
+  padding: 10px 20px;
+  cursor: pointer;
+  width: 30%;
+  display: block;
+  border-radius: 10px;
+  text-align: center;
+  margin: 0 auto;
+  background: #037BFE;
+  border: 1px solid #037BFE;
+}
+
+.button button:hover {
+  background-color: white;
+  color: #037BFE;
+  border: 1px solid #037BFE;
+}
+
+button {
+  color: #ffffff;
+  padding: 10px 20px;
+  cursor: pointer;
+  width: 30%;
+  display: block;
+  border-radius: 10px;
+  text-align: center;
+  margin: 0 auto;
+  background: #037BFE;
+  border: 1px solid #037BFE;
+}
+
+button:hover {
+  background-color: white;
+  color: #037BFE;
+  border: 1px solid #037BFE;
+}
+
+input[type=button],
+input[type=submit],
+input[type=reset] {
+  color: #ffffff;
+  /* padding: 10px 20px; */
+  cursor: pointer;
+  width: 30%;
+  display: block;
+  border-radius: 10px;
+  text-align: center;
+  margin: 0 auto;
+  background: #037BFE;
+  border: 1px solid #037BFE;
+}
+
+input[type=button]:hover,
+input[type=submit]:hover,
+input[type=reset]:hover {
+  background-color: white;
+  color: #037BFE;
+  border: 1px solid #037BFE;
+}
